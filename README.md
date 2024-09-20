@@ -31,3 +31,5 @@ To run this project, you'll need:
 4. This will open a new window where the turtle will draw the **pookalam**!
 
 **Happy Onam!**
+
+![image](https://github.com/user-attachments/assets/417d5787-18d1-4a02-a241-7ebca5e60745)
